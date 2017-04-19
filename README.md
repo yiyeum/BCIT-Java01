@@ -1,5 +1,5 @@
 # BCIT Intro to Software Development 1 - Java
-#### All assignments & labs have been converted to Eclipse from BlueJ.
+#### Reviewing all assignments & labs converting to Eclipse from BlueJ.
 #### Course Learning Outcomes / Competencies ( http://www.bcit.ca/study/outlines/20172062079 ) : 
 <ul>
 <li> Explain object-oriented programming concepts including: object, class, method, encapsulation.</li>
