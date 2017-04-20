@@ -20,7 +20,7 @@ public class Person {
 	 * @param firstName The first name of this person.
 	 * @param lastName The last name of this person.
 	 * @param age The age of this person.
-	 * @height height The height of this person.
+	 * @param height The height of this person.
 	 */
 	public Person(String firstName, String lastName, int age, double height) {
 		setFirstName(firstName);
