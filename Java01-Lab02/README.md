@@ -1,4 +1,4 @@
-# Lab 1 
+# Lab 2
 #### The purpose of this lab is to exercise the knowledge around accessor methods, mutator methods, String concatenation and logical operators.
 
 
